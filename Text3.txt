@@ -1,1 +1,1 @@
-Text here
+git remote add origin https://github.com/sviatoslavmaslov-bit/my_projct.git
